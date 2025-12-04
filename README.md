@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/ef2ce035-7374-4330-930c-327586d2921c
 # emotion-recongnizer 😊
 
 

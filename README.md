@@ -19,7 +19,7 @@ HOW IT WORKS ?
 
 
 
-#🧠 What I Learned
+# What I Learned
 
 - How to build a text‑similarity model using TF‑IDF and cosine similarity
 - Basics of NLP preprocessing (cleaning, tokenizing, vectorizing)
@@ -32,7 +32,7 @@ HOW IT WORKS ?
 
 
 
-#🔍 Key Features:
+# Key Features:
 
  
  1) Custom dataset with 100 labeled entries
@@ -43,7 +43,8 @@ Tech Stack:
 
  Python ,Pandas, Streamlit ,CSS, 
 
- #📦 Dependencies
+ # Dependencies
+ 
 Make sure you install the following:
 
 pip install pandas
@@ -56,9 +57,11 @@ Optional (for styling or enhancements):
 
 pip install numpy
 
-#🛠️ How to Clone & Run the Project
+# How to Clone & Run the Project ⚙️
+
+
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ManashaaU/emotion-recongnizer
 
 # Navigate into the project folder
 cd your-repo-name

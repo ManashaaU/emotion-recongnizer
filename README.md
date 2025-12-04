@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/ef2ce035-7374-4330-930c-327586d2921c
 # emotion-recongnizer 😊
 
 
@@ -77,8 +79,16 @@ streamlit run app.py
  
 
  # LIVE 🎥
+
+
  
 
-Uploading Emotion recognizer.mp4…
+https://github.com/user-attachments/assets/f2a439a0-8026-4069-8b5c-1a0ced2526e5
+
+
+ 
+
+
+
 
 
